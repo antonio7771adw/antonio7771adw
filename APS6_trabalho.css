@@ -1,0 +1,158 @@
+* {
+
+    padding: 0;
+    margin: 0;
+    
+    }
+
+    .Titulo{
+
+        background-color: rgb(102, 167, 102);
+        color: rgb(5, 5, 5);
+        font-size: large;
+        font-style: oblique;
+        padding: 18px;
+        text-size-adjust: 7;
+        border-bottom: solid 2px black;
+    }
+
+    .imagemenergia{
+
+        text-align: center;
+        padding: 10;
+        margin:10;
+        
+
+    }
+
+    .tituloenergia{
+
+        text-align: left;
+        padding: 10;
+            margin:10;
+            font-size: x-large;
+
+    }
+
+    .txtenergia{
+
+        text-align: left;
+        padding: 10;
+            margin:10;
+        font-size: larger;
+
+    }
+
+    .botõesdestino {
+
+text-align: right;
+margin: 7;
+padding: 5;
+
+    }
+
+    .botaoesta {
+        background-color: rgb(102, 167, 102);
+        color: #fff;
+        border: 1px solid black;
+        padding: 5px 5px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 15px;
+        transition: all 1s ease; 
+      }
+            
+       .botaoesta:hover {
+    
+        background-color: #fff;
+        color: rgb(102, 167, 102);
+        padding: 1px 0px 0px 1px;
+    }
+    
+    .botao5r {
+    
+    background-color: rgb(102, 167, 102);
+    color: #fff;
+    border: 1px solid black;
+    padding: 5px 5px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: all 1s ease;
+    }
+    
+    .botao5r:hover {
+        background-color: #fff;
+        color: rgb(102, 167, 102);
+        padding: 1px 0px 0px 1px    
+    }
+   
+    
+    .botaolimp {
+        background-color: rgb(102, 167, 102);
+        color: #fff;
+        padding: 5px 5px;
+        border: 1px solid black;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 15px;
+    transition: all 1s ease;
+    }
+            
+    .botaolimp:hover {
+    background-color: #fff;
+    color: rgb(102, 167, 102);
+    padding: 1px 0px 0px 1px    ;
+               }
+    
+               .botaocuri {
+                background-color: rgb(102, 167, 102);
+                color: #fff;
+                padding: 5px 5px;
+                border: 1px solid black;
+                border-radius: 4px;
+                cursor: pointer;
+                font-size: 15px;
+            transition: all 1s ease;
+           }
+                    
+           .botaocuri:hover {
+            background-color: #fff;
+            color: rgb(102, 167, 102);
+            padding: 1px 0px 0px 1px    ;
+                       }
+
+                       .botaoini {
+                        background-color: rgb(102, 167, 102);
+                        color: #fff;
+                        padding: 5px 5px;
+                        border: 1px solid black;
+                        border-radius: 4px;
+                        cursor: pointer;
+                        font-size: 15px;
+                    transition: all 1s ease;
+                    }
+                            
+                    .botaoini:hover {
+                    background-color: #fff;
+                    color: rgb(102, 167, 102);
+                    padding: 1px 0px 0px 1px    ;
+                               }
+                               .botaoprox {
+
+                                background-color: hsl(110, 79%, 78%);
+                                color: black;
+                                border: 1px solid black;
+                                padding: 5px 5px;
+                                border-radius: 4px;
+                                cursor: pointer;
+                                font-size: 15px;
+                                }
+
+                                .dados {
+
+                                    padding: 10;
+                                    margin: 10;
+                                    font-size: medium;
+                                    text-align: center;
+                                }

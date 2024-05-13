@@ -1,0 +1,194 @@
+* {
+
+padding: 0;
+margin: 0;
+
+}
+
+
+
+.titulo5Rs{
+
+    background-color: rgb(102, 167, 102);
+    color: rgb(5, 5, 5);
+    font-size: large;
+    font-style: oblique;
+    padding: 18px;
+    text-size-adjust: 7;
+    border-bottom: solid 2px black;
+}
+
+
+
+    
+    .imagem5rs{
+    
+    text-align: center;
+    padding: 10;
+        margin:10;
+    
+    }
+    
+    .titulorepensar{
+        padding: 10;
+        margin: 10;
+        font-size: x-large;
+    }
+    
+    .repensar{
+
+        padding: 10;
+        margin: 10;
+        font-size: x-large;
+    }
+
+    .titulorecusar{
+
+        padding: 10;
+        margin: 10;
+        font-size: x-large;
+    }
+
+    .recusar{
+
+        padding: 10;
+        margin: 10;
+        font-size: x-large;
+    }
+
+    .tituloreduzir{
+
+        padding: 10;
+        margin: 10;
+        font-size: x-large;
+    }
+    
+    .reduzir{
+
+        padding: 10;
+        margin: 10;
+        font-size: x-large;
+    }
+
+    .tituloreutilizar{
+
+        padding: 10;
+        margin: 10;
+        font-size: x-large;
+    }
+
+    .reutilizar{
+
+        padding: 10;
+        margin: 10;
+        font-size: x-large;
+    }
+    
+    .tituloreciclar{
+
+        padding: 10;
+        margin: 10;
+        font-size: x-large;
+    }
+
+    .reciclar{
+
+        padding: 10;
+        margin: 10;
+        font-size: x-large;
+    }
+
+    .dados {
+
+padding: 10;
+margin: 10;
+font-size: medium;
+text-align: center;
+    }
+
+ 
+    .botaoesta {
+    background-color: rgb(102, 167, 102);
+    color: #fff;
+    border: 1px solid black;
+    padding: 5px 5px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: all 1s ease; 
+  }
+        
+   .botaoesta:hover {
+
+    background-color: #fff;
+    color: rgb(102, 167, 102);
+    padding: 1px 0px 0px 1px;
+}
+.botaoini {
+        background-color: rgb(102, 167, 102);
+        color: #fff;
+        padding: 5px 5px;
+        border: 1px solid black;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 15px;
+    transition: all 1s ease;
+   }
+            
+   .botaoini:hover {
+    background-color: #fff;
+    color: rgb(102, 167, 102);
+    padding: 1px 0px 0px 1px    ;
+        
+               }
+               .botaolimp {
+                background-color: rgb(102, 167, 102);
+                color: #fff;
+                padding: 5px 5px;
+                border: 1px solid black;
+                border-radius: 4px;
+                cursor: pointer;
+                font-size: 15px;
+            transition: all 1s ease;
+            }
+                    
+            .botaolimp:hover {
+            background-color: #fff;
+            color: rgb(102, 167, 102);
+            padding: 1px 0px 0px 1px    ;
+                       }
+            
+                       .botaocuri {
+                        background-color: rgb(102, 167, 102);
+                        color: #fff;
+                        padding: 5px 5px;
+                        border: 1px solid black;
+                        border-radius: 4px;
+                        cursor: pointer;
+                        font-size: 15px;
+                    transition: all 1s ease;
+                   }
+                            
+                   .botaocuri:hover {
+                    background-color: #fff;
+                    color: rgb(102, 167, 102);
+                    padding: 1px 0px 0px 1px    ;
+                               }
+                               
+                   .botaoener {
+                    background-color: rgb(102, 167, 102);
+                    color: #fff;
+                    border: 1px solid black;
+                    padding: 5px 5px;
+                    border-radius: 4px;
+                    cursor: pointer;
+                    font-size: 15px;
+                    transition: all 1s ease; 
+                  }
+                        
+                   .botaoener:hover {
+                
+                    background-color: #fff;
+                    color: rgb(102, 167, 102);
+                    padding: 1px 0px 0px 1px;
+                }
